@@ -9,3 +9,5 @@ Most SQL functions return a single value.
 ```
 Select GetDate(), IsNull(null,0);
 ```
+
+![Results of Listing 13](./images/picture1.png "Results of Listing 13")#### Figure 13. The results of Listing 13
